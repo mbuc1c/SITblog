@@ -22,8 +22,8 @@ title: Vježba ATP2021
 email: mbucic@unizd.hr
 description: >- # this means to ignore newlines until "baseurl:"
   Ovo je opis stranice.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vjezbaATP2021.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SITblog" # the subpath of your site, e.g. /blog
+url: "https://mbuc1c.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  mbuc1c
 
